@@ -10,7 +10,7 @@
 ### Analysis of Outcomes Based on Launch Date
 	For the first analysis, the data was filtered in a pivot table to only show projects that fell under the Theater category (Fig.1). Then, the remaining projects were separated by start month, and for each month the number of outcomes (successes, failures, and canceled) for the kickstarters each month were counted. This count is showed visually in Fig.2
 
-
+![alt text](https://github.com/specialcanadian/kickstarter-analysis/blob/main/ExtraImages/PivotTable.png?raw=true)
 Fig.1: Pivot table of kickstarter outcomes sorted by month
 
 ![alt text](https://github.com/specialcanadian/kickstarter-analysis/blob/main/Resources/TheaterOutcomesbyLaunchDate.png?raw=true)  
@@ -20,6 +20,7 @@ Fig.2: Plot of kickstarter outcomes sorted by month
 ### Analysis of Outcomes Based on Goals
 	The second analysis shows the outcome of Kickstarter campaigns for the “plays” subcategory, grouped by funding goals (Fig.3). A table was made to count the number of successes, failures, cancelations, and the total number within each funding goal range. These numbers were then used to calculate percentages of the outcomes, and to create plot of outcome based on goal (Fig.4).	
 
+![alt text](https://github.com/specialcanadian/kickstarter-analysis/blob/main/ExtraImages/Chart.png?raw=true)
 Fig.3
 
 ![alt text](https://github.com/specialcanadian/kickstarter-analysis/blob/main/Resources/Outcome_vs_Goals.png?raw=true)
