@@ -10,6 +10,7 @@
 ### Analysis of Outcomes Based on Launch Date
 	For the first analysis, the data was filtered in a pivot table to only show projects that fell under the Theater category (Fig.1). Then, the remaining projects were separated by start month, and for each month the number of outcomes (successes, failures, and canceled) for the kickstarters each month were counted. This count is showed visually in Fig.2
 
+![alt text](https://github.com/specialcanadian/kickstarter-analysis/blob/main/Resources/TheaterOutcomesbyLaunchDate.png?raw=true)
 Fig.1: Pivot table of kickstarter outcomes sorted by month
   	
 Fig.2: Plot of kickstarter outcomes sorted by month	
