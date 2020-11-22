@@ -4,7 +4,7 @@
 
 ### Purpose
 
-##This analysis was done to find trends in successful and failed kickstarter projects. Launch date and funding goals were the focus of the analysis. 
+This analysis was done to find trends in successful and failed kickstarter projects. Launch date and funding goals were the focus of the analysis. 
 
 ## Analysis and Challenges
 
